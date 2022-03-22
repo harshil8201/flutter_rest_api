@@ -1,6 +1,6 @@
-# flutter_application_1
+# flutter_rest_api
 
-A new Flutter project.
+A new Flutter project for Rest APT.
 
 ## Getting Started
 
